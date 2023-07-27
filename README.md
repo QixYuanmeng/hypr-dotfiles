@@ -1,0 +1,3 @@
+### myhyprland dotfiles
+
+##welcome copy
