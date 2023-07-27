@@ -1,0 +1,7 @@
+2023-07-26 02:52:59.265 [info] update#setState idle
+2023-07-26 02:53:20.709 [info] Extension host with pid 232476 exited with code: 0, signal: unknown.
+2023-07-26 02:53:20.710 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-26 02:53:20.710 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 232360]: crashed with code 15 and reason 'killed'
+2023-07-26 02:53:28.524 [info] Extension host with pid 235675 exited with code: 0, signal: unknown.
+2023-07-26 02:53:28.528 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-26 02:53:28.528 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 235655]: crashed with code 15 and reason 'killed'

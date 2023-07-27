@@ -1,0 +1,6 @@
+2023-07-27 14:59:04.686 [error] [uncaught exception in sharedProcess]: socket hang up: Error: socket hang up
+    at connResetException (node:internal/errors:704:14)
+    at TLSSocket.socketOnEnd (node:_http_client:505:23)
+    at TLSSocket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
